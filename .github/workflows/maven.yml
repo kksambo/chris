@@ -3,7 +3,7 @@ name: Java CI with Maven
 on:
   push:
     branches:
-      - master  # Trigger the workflow on push to 'master' branch
+      - master  # Trigger the workflow on push to 'master' branchh
   pull_request:
     branches:
       - master  # Trigger the workflow on pull requests to 'master' branch
